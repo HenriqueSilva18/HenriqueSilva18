@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C (University project)</b>
-  - [Manegement of companies software](https://github.com/HenriqueS18)
+  - [Enterprise Management Software](https://github.com/HenriqueSilva18/EnterpriseManagementSoftware)
 
 
 <h2> 🤳 Connect with me:</h2>
