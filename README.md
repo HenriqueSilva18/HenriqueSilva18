@@ -3,6 +3,7 @@
 
 - <b>C (University project)</b>
   - [Enterprise Management Software](https://github.com/HenriqueSilva18/EnterpriseManagementSoftware)
+  - [Equipment Tracking System](https://github.com/HenriqueSilva18/EquipmentTrackingSystem)
 
 
 <h2> 🤳 Connect with me:</h2>
