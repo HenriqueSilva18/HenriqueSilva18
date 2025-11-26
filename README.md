@@ -6,9 +6,9 @@
   - [Equipment Tracking System](https://github.com/HenriqueSilva18/EquipmentTrackingSystem)
 
 - <b>Java & others (University project)</b>
-  - [Campus Design Network]([https://github.com/HenriqueSilva18/EnterpriseManagementSoftware](https://github.com/HenriqueSilva18/Campus-Network-Design))
+  - [Campus Design Network](https://github.com/HenriqueSilva18/Campus-Network-Design)
   - [Drone Show Management System](https://github.com/HenriqueSilva18/Drone-Show-Management-System)
-  - [Railway Network Simulator]([https://github.com/HenriqueSilva18/Drone-Show-Management-System](https://github.com/HenriqueSilva18/Railway-Network-Simulator))
+  - [Railway Network Simulator](https://github.com/HenriqueSilva18/Drone-Show-Management-System)
 
 
 
